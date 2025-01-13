@@ -1,0 +1,2 @@
+1. shell is a program whose work is to interpret the commands and execute it.
+
