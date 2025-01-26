@@ -1,3 +1,6 @@
 1. shell is a program whose work is to interpret the commands and execute it.
 2.shell script is a sequence of commands.
 3.there are many types of shell like bash,z,c etc.
+
+ques1: how to take command line arguement in c,bash and java ?
+!@ is used for all arguement in bash
