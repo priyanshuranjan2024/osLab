@@ -1,0 +1,7 @@
+phthread_mutex_init()
+pthread_mutex_lock()
+pthread_mutex_unlock()
+
+The above functions are important for tackling race condition.
+
+Also learn about the semaphore functions.
